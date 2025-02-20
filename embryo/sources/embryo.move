@@ -138,7 +138,6 @@ module embryo::embryo_tests {
 
     #[test]
     fun test_mint(){
-        //test_mint
         let mut scenario = test_scenario::begin(PUBLISHER);
         {
             embryo::init_for_testing(scenario.ctx())
