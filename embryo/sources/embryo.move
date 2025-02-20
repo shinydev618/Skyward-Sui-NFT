@@ -138,6 +138,10 @@ module embryo::embryo_tests {
 
     #[test]
     fun test_mint(){
+<<<<<<< HEAD
+=======
+        // test_mint
+>>>>>>> 52c7270a8cb16d0df342e0df1ee295623b8a9578
         let mut scenario = test_scenario::begin(PUBLISHER);
         {
             embryo::init_for_testing(scenario.ctx())
