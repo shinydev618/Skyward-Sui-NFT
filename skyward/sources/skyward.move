@@ -6,7 +6,7 @@ module skyward::skyward {
     use sui::display;
     use sui::package::{Self};
 
-
+    //start
     // === Errors ===
 
     /// The error code for when the argument is invalid.
@@ -35,7 +35,7 @@ module skyward::skyward {
         id: UID,
     }
 
-    /// The one time witness for the NFT.
+    /// The onetime witness for the NFT.
     public struct SKYWARD has drop{}
 
 
