@@ -35,7 +35,7 @@ module skyward::skyward {
         id: UID,
     }
 
-    /// The one time witness for the NFT.
+    /// The onetime witness for the NFT.
     public struct SKYWARD has drop{}
 
 
