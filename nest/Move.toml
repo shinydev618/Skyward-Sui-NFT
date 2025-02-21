@@ -2,7 +2,7 @@
 name = "nest"
 version = "0.0.1"
 edition = "2024.beta"
-//address
+
 [dependencies]
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
 
