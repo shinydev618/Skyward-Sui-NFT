@@ -28,13 +28,13 @@ module skyward::skyward {
         /// The URL of the project associated with the NFT.
         project_url: String,
     }
-
+    
     /// The admin capability to authorize operations.
     public struct AdminCap has key, store {
         /// The unique identifier of the capability.
         id: UID,
     }
-    ///start 
+    ///start now
     /// The onetime witness for the NFT.
     public struct SKYWARD has drop{}
 
