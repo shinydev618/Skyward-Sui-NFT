@@ -8,4 +8,4 @@ This repository contains the source code of NFT contracts.
 - [Nest NFT](./nest/README.md)
 - [Egg NFT](./egg/README.md)
 
-If you need any problem, contact me - @gimarai0603@gmail.com
+If you need any problem, contact me - @ashinydev110@gmail.com
